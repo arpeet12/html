@@ -1,0 +1,35 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #F5F5F5;
+
+}
+li {
+    float: left;
+    text-align: center;
+
+}
+li a{
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 15px;
+    text-decoration: none;   
+}
+
+li a:hover {
+    background-color: #555;
+    color: white;
+  }
+img {
+    float: right;
+  }
+.mydiv {
+    border: 5px black;
+    background-image: url('jeans.jpg, ');
+    text-align: center;
+    stroke: black 10px;
+    height: 200px;
+  }
